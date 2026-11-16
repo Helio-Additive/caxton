@@ -5,7 +5,7 @@ async-timeout==4.0.2
 asynctest==0.13.0
 attrs==21.4.0
 cachetools==4.2.4
-certifi==2021.10.8
+certifi==2026.10.18
 charset-normalizer==2.0.12
 dataclasses==0.8
 frozenlist==1.2.0
